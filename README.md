@@ -7,4 +7,6 @@ and a deep narrative ensures that "Segiyo No Koe" stands out in the 2D gaming la
 1. Development Platform: Unity Game Engine
 2. Language(s): C#
 3. Coding Platform: Visual Studio Code
+
+
 Check releases for unity files
